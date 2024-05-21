@@ -21,9 +21,9 @@ SPACEBAR 		- 참새 점프하기
 
 #### Project Description
 <ul>
-<li>Game project worked on in Unity Camp held in HGU (23/06/23 ~ 23/06/30)</li>
-<li>Worked as team of 3</li>
-<li>Mainly worked on Character Control, Game System, AI pathfinding, and Camera control</li>
+<li>한동 대학교에서 열린 유니티 캠프에서 개발 (23/06/23 ~ 23/06/30)</li>
+<li>3인 팀으로 제작 : 제작에 걸린 시간 (약 12시간)</li>
+<li>개발 파트: 캐릭터 컨트롤, 게임 시스템, Navmesh Agent, 카메라 시스템, 아이템</li>
 </ul>
 
 #### 플레이 화면
