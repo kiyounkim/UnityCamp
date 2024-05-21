@@ -28,7 +28,17 @@ SPACEBAR 		- 참새 점프하기
 
 #### 플레이 화면
 
-추가 예정
+메인화면
+
+<img src = "https://github.com/kiyounkim/UnityCamp/assets/112357059/bd439a83-84f2-4ae9-b357-6baa4f896504" width = "50%"/>
+
+인게임 화면
+
+<img src = "https://github.com/kiyounkim/UnityCamp/assets/112357059/6201f6c2-3691-401c-abf7-76b44bede4b3" width = "50%"/>
+
+종료 화면
+
+<img src = "https://github.com/kiyounkim/UnityCamp/assets/112357059/17909bf1-5488-4322-ac39-8bc4ea7f89cc" width = "50%"/>
 
 #### 유저 테스트 결과
 
@@ -45,3 +55,7 @@ SPACEBAR 		- 참새 점프하기
 2. 미니맵 시스템 : 현재는 위에 카메라를 이용한 미니맵 사용. 해당 시스템 개선 가능.
    
 3. 다양한 아이템 : 실제 팩맨처럼 적을 상대할 수 있는 수단 기획 및 개발.
+
+4. 게임 시스템 추가 : 현재 게임 종료시 다시시작 기능 미비. 쉽게 개발 가능
+
+5. UI 디자인 추가 및 변경
